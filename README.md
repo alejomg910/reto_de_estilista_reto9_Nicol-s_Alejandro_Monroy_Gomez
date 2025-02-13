@@ -80,3 +80,24 @@ if __name__ == "__main__":
 ```
 
 4. Revisar que son los algoritmos de *sorting*, entender *bubble-sort* ([enlace](https://www.geeksforgeeks.org/bubble-sort/) a implementación).
+
+_Los algoritmos de sorting son aquellos conjuntos de instrucciones que permiten ordenar de cierta forma un arreglo que uno de como entrada. Son utiles a la hora de ordenar datos y la busqueda de los mismos, pues de esta manera sera mas sencillo encontrar lo que se este buscando, despues de haberlo ordenado correctamente._
+
+_Algunos de los mas comunes son:_
+- _Selection sort (selección)_
+- _Bubble sort (burbuja)_
+- _Insertion sort (inserción)_
+- _Merge sort (combinación)_
+- _Quick sort (rápida)_
+- _Heap sort (montón)_
+- _Counting sort (conteo)_
+- _Radix sort (raíz)_
+- _Bucket sort (cubo)_
+
+_Ahora, el **Bubble sort**._ 
+
+_Es un metodo que intercambia el orden de los elementos en la lista que se quieren ordenar. Este ordenamiento se da de forma iterativa, por lo que para grandes conjuntos de datos no sera de mucha ayuda, ya que el algoritmo se vuelve complejo y el tiempo de ejecucion se hace mucho mas largo. En cada paso se consideran solamente los elementos que aun no se encuentran en su posicioin correcta, iniciando a acomodar en primer lugar el dato mas grande hasta el mas pequeño._
+
+_Fuentes:_ 
+- _https://www.freecodecamp.org/espanol/news/algoritmos-de-ordenacion-explicados-con-ejemplos-en-javascript-python-java-y-c/_
+- _https://www.geeksforgeeks.org/bubble-sort-algorithm/_
